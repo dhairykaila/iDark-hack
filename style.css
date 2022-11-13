@@ -1,0 +1,102 @@
+#we {
+    margin-left: 10px;
+    margin-bottom: 1px;
+    margin-top: 9px;
+}
+
+#wr {
+    margin-left: 10px;
+    margin-bottom: 1px;
+    margin-top: 9px;
+}
+
+#wt {
+    margin-left: 10px;
+    margin-bottom: 1px;
+    margin-top: 9px;
+}
+
+#wy {
+    margin-left: 10px;
+    margin-bottom: 1px;
+    margin-top: 9px;
+}
+
+
+#vb {
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+#qa {
+    text-align: left;
+    padding-top: 4px;
+    padding-left: 10px;
+}
+
+.qwert {
+    background-color: rgb(225, 233, 233);
+}
+
+
+#form {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 1pc;
+    background-color: #a8a8a8;
+}
+
+#but {
+    margin-top: 1pc;
+    margin-bottom: 1pc;
+}
+
+#hed {
+    margin-top: 1pc;
+}
+
+#bord {
+    border-radius: 1pc;
+}
+
+#bt{
+    padding: 10px 5pc;
+}
+#kl{
+    margin-top: 0px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+#tt{
+    margin: auto;
+}
+#iop{
+    margin-top: 11pc;
+}
+
+/* .t1{
+    margin: auto;
+    display: flex;
+    overflow-x:scroll;
+    padding: 2px;
+    width: 300px;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 24px;
+    border-radius: 8px;
+    gap: 0px;
+    scrollbar-width: none;
+}
+.ite{
+    margin: auto;
+}
+.t1 .ite{
+    flex: 0 0 100%;
+    padding: 24px;
+    border-radius: 8px;
+    scroll-snap-align: start;
+   
+} */
+
+/* rgba(212, 212, 212, 0.582) */
+
